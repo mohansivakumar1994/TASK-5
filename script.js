@@ -14,7 +14,7 @@ let myResume={
    "profiles": [
      {
        "website": "https://www.linkedin.com/in/mohan-s-b3997912b//",
-       "github":"https://github.com/MOHAN SIVAKUMAR"
+       "github":"https://github.com/MOHAN SIVAKUMAR1994"
      }
    ]
  },
